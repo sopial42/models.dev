@@ -1,6 +1,6 @@
 name = "Qwen3-Coder-30B-A3B-Instruct"
 release_date = "2025-10-28"
-last_updated = "2025-10-28"
+last_updated = "2026-04-16"
 attachment = false
 reasoning = false
 tool_call = true
@@ -10,7 +10,7 @@ open_weights = true
 
 [cost]
 input = 0.07
-output = 0.26
+output = 0.24
 
 [limit]
 context = 262_144

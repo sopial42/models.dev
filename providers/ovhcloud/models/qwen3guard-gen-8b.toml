@@ -1,16 +1,16 @@
-name = "Qwen2.5-Coder-32B-Instruct"
-release_date = "2025-03-24"
-last_updated = "2025-03-24"
+name = "Qwen3Guard-Gen-8B"
+release_date = "2025-04-16"
+last_updated = "2025-04-16"
 attachment = false
 reasoning = false
 tool_call = false
-structured_output = true
+structured_output = false
 temperature = true
 open_weights = true
 
 [cost]
-input = 0.96
-output = 0.96
+input = 0.00
+output = 0.00
 
 [limit]
 context = 32_768

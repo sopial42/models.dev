@@ -1,16 +1,16 @@
-name = "Mixtral-8x7B-Instruct-v0.1"
-release_date = "2025-04-01"
-last_updated = "2025-04-01"
+name = "Qwen3Guard-Gen-0.6B"
+release_date = "2025-04-16"
+last_updated = "2025-04-16"
 attachment = false
 reasoning = false
 tool_call = false
-structured_output = true
+structured_output = false
 temperature = true
 open_weights = true
 
 [cost]
-input = 0.70
-output = 0.70
+input = 0.00
+output = 0.00
 
 [limit]
 context = 32_768
