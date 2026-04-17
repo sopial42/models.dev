@@ -1,6 +1,6 @@
-name = "Meta-Llama-3_3-70B-Instruct"
+name = "Llama-3.3-70B-Instruct"
 release_date = "2025-04-01"
-last_updated = "2025-04-01"
+last_updated = "2026-04-17"
 attachment = false
 reasoning = false
 tool_call = true
@@ -9,8 +9,8 @@ temperature = true
 open_weights = true
 
 [cost]
-input = 0.74
-output = 0.74
+input = 0.67
+output = 0.67
 
 [limit]
 context = 131_072

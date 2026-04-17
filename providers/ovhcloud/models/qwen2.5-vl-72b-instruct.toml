@@ -1,6 +1,6 @@
 name = "Qwen2.5-VL-72B-Instruct"
 release_date = "2025-03-31"
-last_updated = "2025-03-31"
+last_updated = "2026-04-17"
 attachment = true
 reasoning = false
 tool_call = false
@@ -9,8 +9,8 @@ temperature = true
 open_weights = true
 
 [cost]
-input = 1.01
-output = 1.01
+input = 0.91
+output = 0.91
 
 [limit]
 context = 32_768

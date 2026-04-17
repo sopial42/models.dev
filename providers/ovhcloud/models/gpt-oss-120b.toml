@@ -1,6 +1,6 @@
 name = "gpt-oss-120b"
 release_date = "2025-08-28"
-last_updated = "2025-08-28"
+last_updated = "2026-04-17"
 attachment = false
 reasoning = true
 tool_call = true
@@ -8,8 +8,8 @@ structured_output = true
 open_weights = true
 
 [cost]
-input = 0.09
-output = 0.47
+input = 0.08
+output = 0.4
 
 [limit]
 context = 131_072
